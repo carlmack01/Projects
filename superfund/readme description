@@ -1,0 +1,4 @@
+●	Extracted data from a JSON including location and descriptions of superfund sites (EPA) and demographics and socioeconomics (Census).  
+Cleaned data, selected columns, and uploaded to SQL.   
+●	Subject Matter Expert and Analyst.  Made visualizations and tables in HTML/JS and made presentation. 
+●	Used Python, Pandas, Jupyter Notebook, SQLalchemy, SQL, HTML, JS and d3 on the data.
